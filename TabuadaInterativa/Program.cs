@@ -4,7 +4,7 @@ namespace Program
 {
     class TabuadaInterativa
     {
-       public void Main(string[] args)
+        static void Main(string[] args)
         {
             // Limpa o console para uma melhor visualização
             Console.Clear();
